@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_18px_styles">
+        <item name="android:textSize">@dimen/text_size_9</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_18px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_18px_styles_half">
+        <item name="android:textSize">@dimen/text_size_9</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_18px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="text_20px_styles">
+        <item name="android:textSize">@dimen/text_size_10</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_20px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_20px_styles_half">
+        <item name="android:textSize">@dimen/text_size_10</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_20px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_24px_styles">
+        <item name="android:textSize">@dimen/text_size_12</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_24px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_24px_styles_half">
+        <item name="android:textSize">@dimen/text_size_12</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_24px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_26px_styles">
+        <item name="android:textSize">@dimen/text_size_13</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_24px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_26px_styles_half">
+        <item name="android:textSize">@dimen/text_size_13</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_24px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_28px_styles">
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_28px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_28px_styles_half">
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_28px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_30px_styles">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_4px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_30px_styles_half">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_4px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="text_32px_styles">
+        <item name="android:textSize">@dimen/text_size_16</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_32px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_32px_styles_half">
+        <item name="android:textSize">@dimen/text_size_16</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_32px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_36px_styles">
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_36px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_36px_styles_half">
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_36px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_40px_styles">
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_40px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_40px_styles_half">
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:lineSpacingExtra">@dimen/spacing_text_half_40px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_60px_styles">
+        <item name="android:textSize">@dimen/text_size_30</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_3px</item>
+        <item name="android:textColorHint">@color/text_colors_grey_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="width_0_80">2dip</dimen>
+
+    <dimen name="width_1_80">4dip</dimen>
+    <dimen name="width_1_5_80">6dip</dimen>
+    <dimen name="width_2_80">8dip</dimen>
+    <dimen name="width_3_80">12dip</dimen>
+    <dimen name="width_4_80">16dip</dimen>
+    <dimen name="width_5_80">20dip</dimen>
+    <dimen name="width_6_80">24dip</dimen>
+    <dimen name="width_7_80">28dip</dimen>
+    <dimen name="width_8_80">32dip</dimen>
+    <dimen name="width_9_80">36dip</dimen>
+    <dimen name="width_10_80">40dip</dimen>
+
+    <dimen name="width_11_80">44dip</dimen>
+    <dimen name="width_12_80">48dip</dimen>
+    <dimen name="width_13_80">52dip</dimen>
+    <dimen name="width_14_80">56dip</dimen>
+    <dimen name="width_15_80">60dip</dimen>
+    <dimen name="width_16_80">64dip</dimen>
+    <dimen name="width_17_80">68dip</dimen>
+    <dimen name="width_18_80">72dip</dimen>
+    <dimen name="width_19_80">76dip</dimen>
+    <dimen name="width_20_80">80dip</dimen>
+
+    <dimen name="width_21_80">84dip</dimen>
+    <dimen name="width_22_80">88dip</dimen>
+    <dimen name="width_23_80">92dip</dimen>
+    <dimen name="width_24_80">96dip</dimen>
+    <dimen name="width_25_80">100dip</dimen>
+    <dimen name="width_26_80">104dip</dimen>
+    <dimen name="width_27_80">108dip</dimen>
+    <dimen name="width_28_80">112dip</dimen>
+    <dimen name="width_29_80">116dip</dimen>
+    <dimen name="width_30_80">120dip</dimen>
+
+    <dimen name="width_31_80">124dip</dimen>
+    <dimen name="width_32_80">128dip</dimen>
+    <dimen name="width_33_80">132dip</dimen>
+    <dimen name="width_34_80">136dip</dimen>
+    <dimen name="width_35_80">140dip</dimen>
+    <dimen name="width_36_80">144dip</dimen>
+    <dimen name="width_37_80">148dip</dimen>
+    <dimen name="width_38_80">152dip</dimen>
+    <dimen name="width_39_80">156dip</dimen>
+    <dimen name="width_40_80">160dip</dimen>
+
+
+    <dimen name="width_41_80">164dip</dimen>
+    <dimen name="width_42_80">168dip</dimen>
+    <dimen name="width_43_80">172dip</dimen>
+    <dimen name="width_44_80">176dip</dimen>
+    <dimen name="width_45_80">180dip</dimen>
+    <dimen name="width_46_80">184dip</dimen>
+    <dimen name="width_47_80">188dip</dimen>
+    <dimen name="width_48_80">192dip</dimen>
+    <dimen name="width_49_80">196dip</dimen>
+    <dimen name="width_50_80">200dip</dimen>
+
+    <dimen name="width_51_80">204dip</dimen>
+    <dimen name="width_52_80">208dip</dimen>
+    <dimen name="width_53_80">212dip</dimen>
+    <dimen name="width_54_80">216dip</dimen>
+    <dimen name="width_55_80">220dip</dimen>
+    <dimen name="width_56_80">224dip</dimen>
+    <dimen name="width_57_80">228dip</dimen>
+    <dimen name="width_58_80">232dip</dimen>
+    <dimen name="width_59_80">236dip</dimen>
+    <dimen name="width_60_80">240dip</dimen>
+
+    <dimen name="width_61_80">244dip</dimen>
+    <dimen name="width_62_80">248dip</dimen>
+    <dimen name="width_63_80">252dip</dimen>
+    <dimen name="width_64_80">256dip</dimen>
+    <dimen name="width_65_80">260dip</dimen>
+    <dimen name="width_66_80">264dip</dimen>
+    <dimen name="width_67_80">268dip</dimen>
+    <dimen name="width_68_80">272dip</dimen>
+    <dimen name="width_69_80">276dip</dimen>
+    <dimen name="width_70_80">280dip</dimen>
+
+    <dimen name="width_71_80">284dip</dimen>
+    <dimen name="width_72_80">288dip</dimen>
+    <dimen name="width_73_80">292dip</dimen>
+    <dimen name="width_74_80">296dip</dimen>
+    <dimen name="width_75_80">300dip</dimen>
+    <dimen name="width_76_80">304dip</dimen>
+    <dimen name="width_77_80">308dip</dimen>
+    <dimen name="width_78_80">312dip</dimen>
+    <dimen name="width_79_80">316dip</dimen>
+    <dimen name="width_80_80">320dip</dimen>
+</resources>

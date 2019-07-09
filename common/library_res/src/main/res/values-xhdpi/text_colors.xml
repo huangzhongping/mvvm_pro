@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //新颜色设置
+    <color name="text_colors_light_blue">#3fa2d5</color>
+    <color name="text_colors_pale_sky_blue">#7088ec</color>
+    <color name="text_colors_light_purple">#b970de</color>
+    //选中的颜色 、标签 、航班日期
+    <color name="text_colors_green">#1cbc76</color>
+    <color name="text_colors_green_thin">#e9fff0</color>
+    <color name="text_colors_green_thin_01">#f2f4f7</color>
+    //售价
+    <color name="text_colors_red_light">#FF4444</color>
+    //评分数字、提醒文字
+    <color name="text_colors_orange">#FF6600</color>
+    //文本框、产品标题、产品内容/重要或突出的文字
+    <color name="text_colors_black_light">#333333</color>
+    //默认、顶部标题、次要重要的文字
+    <color name="text_colors_grey">#666666</color>
+    //目的地、“起”字、文本框提示、弱化、描述、小字等文字
+    <color name="text_colors_grey_light">#66999999</color>
+    //用于最不重要或铺助文字
+    <color name="text_colors_grey_light_h">#aaaaaa</color>
+    //分割线、不可点击
+    <color name="text_colors_divider">#dddddd</color>
+    <color name="text_colors_divider_01">#e8e8e8</color>
+    //背景
+    <color name="text_colors_page">#f1f1f1</color>
+    //背景
+    <color name="text_colors_red_dep">#fffaf6</color>
+    <color name="text_colors_yellow">#c59d60</color>
+
+    <color name="text_light_blue">#b6eaf9</color>
+    <color name="text_pale_sky_blue">#d6dfff</color>
+    <color name="text_light_purple">#f0dcfd</color>
+
+
+    <color name="text_colors_grey_item">#F8F8F8</color>
+    <color name="text_colors_orange_down">#fe8d32</color>
+
+
+//-----------------------------------------------------------------------------------
+    //产品类型
+    <color name="text_colors_white">#FFFFFF</color>
+
+    <color name="text_colors_grey_light01">#c7c6c6</color>
+    <color name="text_colors_red">#ff2424</color>
+    //等级文字
+    <color name="text_colors_gold">#FF9900</color>
+
+    //房型
+    <color name="text_colors_blue_dodger">#0066CC</color>
+
+    <color name="text_colors_sky_blue">#1a99d4</color>
+
+    <color name="text_colors_deep_blue">#407fde</color>
+
+    <color name="text_colors_dark_green">#96b42a</color>
+
+    <color name="text_colors_red_dep_desc">#F86764</color>
+
+    //首页
+    <color name="text_colors_gray_deep">#444444</color>
+
+    <color name="text_colors_orange_deep">#ff822f</color>
+
+    <color name="text_colors_deep_blue_2">#40abdb</color>
+
+</resources>

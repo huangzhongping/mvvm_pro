@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view.LoginActivity">
+
+    <include layout="@layout/toolbar_organization_with_right_title"/>
+
+    <TextView
+        android:text="@string/A_ZRKGUE"
+        android:textSize="@dimen/text_size_28"
+        android:textStyle="bold"
+        android:textColor="@color/color_main_title"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginTop="@dimen/spacing_02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:text="@string/A_4G2Q97"
+        android:textSize="@dimen/text_size_16"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginTop="@dimen/spacing_02"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/login_et_username"
+        android:textSize="@dimen/text_size_26"
+        android:inputType="number"
+        android:imeOptions="actionNext"
+        android:focusable="true"
+        android:background="@null"
+        android:maxLength="11"
+        android:focusableInTouchMode="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/spacing"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginRight="@dimen/spacing_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_4_5_80" />
+
+    <View
+        android:background="@color/gray_e7e7e7"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginRight="@dimen/spacing_02"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"/>
+
+    <TextView
+        android:id="@+id/login_username_tip"
+        android:textSize="@dimen/text_size_12"
+        android:textColor="@color/red_500"
+        android:text="@string/A_34YLRS"
+        android:visibility="gone"
+        android:layout_marginTop="@dimen/spacing_pad"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/A_96I8HX"
+        android:textSize="@dimen/text_size_16"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginTop="@dimen/spacing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/login_et_password"
+        android:textSize="@dimen/text_size_26"
+        android:digits="1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZqwertyuiopasdfghjklzxcvbnm`-=[]\;,./~!@#$%^*()_+}{:?&amp;&lt;&gt;&quot;&apos;"
+        android:inputType="textPassword"
+        android:imeOptions="actionDone"
+        android:maxLength="32"
+        android:focusable="true"
+        android:background="@null"
+        android:layout_marginTop="@dimen/spacing"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginRight="@dimen/spacing_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_4_5_80" />
+
+    <View
+        android:background="@color/gray_e7e7e7"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_marginRight="@dimen/spacing_02"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"/>
+
+    <TextView
+        android:id="@+id/login_password_tip"
+        android:textSize="@dimen/text_size_12"
+        android:textColor="@color/red_500"
+        android:text="@string/A_RT76L4"
+        android:visibility="gone"
+        android:layout_marginTop="@dimen/spacing_pad"
+        android:layout_marginLeft="@dimen/spacing_02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/login_btn_login"
+        android:text="@string/A_MREL83"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_16"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/spacing_02"
+        android:layout_marginLeft="@dimen/spacing_35"
+        android:layout_marginRight="@dimen/spacing_35"
+        android:background="@drawable/bg_btn_rectangle_login"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_6_80" />
+
+</LinearLayout>

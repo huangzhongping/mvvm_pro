@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--控件与控件之间的间距-->
+    <dimen name="spacing_view">10dip</dimen>
+    <!--左右上下间距-->
+    <dimen name="spacing_popup">28dip</dimen>
+    <!--左右上下间距-->
+    <dimen name="spacing">10dip</dimen>
+    <dimen name="spacing_01">14dip</dimen>
+    <!--单行的总高度-->
+    <dimen name="single_height">49dp</dimen>
+    <!--字体与组件的最小间距-->
+    <dimen name="spacing_pad">7dp</dimen>
+    <dimen name="spacing_pad02">5dp</dimen>
+    <dimen name="spacing_pad03">2dp</dimen>
+
+    <dimen name="single_view_ic">28dp</dimen>
+
+    <!--字体40/36/32/28/24/20/18sp行间距-->
+    <dimen name="spacing_text_40px">5dip</dimen>
+    <dimen name="spacing_text_36px">4.5dip</dimen>
+    <dimen name="spacing_text_32px">4dip</dimen>
+    <dimen name="spacing_text_28px">3.5dip</dimen>
+    <dimen name="spacing_text_24px">3dip</dimen>
+    <dimen name="spacing_text_20px">2.5dip</dimen>
+    <dimen name="spacing_text_18px">2.25dip</dimen>
+
+    <dimen name="spacing_text_half_40px">2.5dip</dimen>
+    <dimen name="spacing_text_half_36px">2.25dip</dimen>
+    <dimen name="spacing_text_half_32px">2dip</dimen>
+    <dimen name="spacing_text_half_28px">1.75dip</dimen>
+    <dimen name="spacing_text_half_24px">1.5dip</dimen>
+    <dimen name="spacing_text_half_20px">1.25dip</dimen>
+    <dimen name="spacing_text_half_18px">1.125dip</dimen>
+</resources>

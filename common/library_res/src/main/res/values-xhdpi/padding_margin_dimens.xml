@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //文字与图标的间距
+    <!--<dimen name="padding_16px">8dp</dimen>-->
+    <!--<dimen name="padding_10px">5dp</dimen>-->
+    <!--<dimen name="padding_5px">2.5dp</dimen>-->
+    <!--//文字与图片的间距、左右上下的间距-->
+    <!--<dimen name="padding_20px">10dp</dimen>-->
+
+    <!--<dimen name="padding_24px">12dp</dimen>-->
+    <!--<dimen name="padding_30px">15dp</dimen>-->
+    <!--<dimen name="padding_36px">18dp</dimen>-->
+    <!--<dimen name="padding_40px">20dp</dimen>-->
+    <!--<dimen name="padding_48px">24dp</dimen>-->
+    <!--<dimen name="padding_60px">30dp</dimen>-->
+    <!--<dimen name="padding_80px">40dp</dimen>-->
+    <!--<dimen name="padding_88px">44dp</dimen>-->
+    <!--<dimen name="padding_90px">45dp</dimen>-->
+    <!--<dimen name="padding_100px">50dp</dimen>-->
+    <!--<dimen name="padding_140px">70dp</dimen>-->
+    <!--<dimen name="padding_220px">110dp</dimen>-->
+    <!--<dimen name="padding_310px">155dp</dimen>-->
+    //分割线
+    <dimen name="padding_1px">0.5dp</dimen>
+
+    //列表图片比率大小1：7
+    <!--<dimen name="iamge_width">148.5dp</dimen>-->
+    <!--<dimen name="iamge_height">104dp</dimen>-->
+
+    <!--<dimen name="iamge_height_140px">70dp</dimen>-->
+
+</resources>
