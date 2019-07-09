@@ -1,6 +1,10 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'//添加bintray插件
 
 android {
+    lintOptions {
+        abortOnError false
+    }
     compileSdkVersion rootProject.ext.android["compileSdkVersion"]
     buildToolsVersion rootProject.ext.android["buildToolsVersion"]
 
@@ -56,4 +60,13 @@ dependencies {
     api rootProject.ext.support["constraint-layout"]
     api rootProject.ext.support["support-v4"]
     api project(":common:widget")
+}
+publish{
+    userOrg= 'mvvm-pro' //用户名
+    repoName = "mvvm_network" // binary上的仓库名
+    groupId = "com.bipo" //包名
+    artifactId = "networkrequest" //
+    publishVersion = "1.0.0"
+    desc = "a test"
+    website = "https://github.com/huangzhongping/mvvm_pro"
 }

@@ -11,7 +11,7 @@ import com.example.mvvmlibrary.widget.loadingdrawable.render.LoadingDrawable;
 import com.example.mvvmlibrary.widget.loadingdrawable.render.LoadingRenderer;
 import com.example.mvvmlibrary.widget.loadingdrawable.render.LoadingRendererFactory;
 
-public class LoadingView extends ImageView {
+public class LoadingView extends android.support.v7.widget.AppCompatImageView {
     private LoadingDrawable mLoadingDrawable;
 
     public LoadingView(Context context) {

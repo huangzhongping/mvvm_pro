@@ -15,6 +15,7 @@
  */
 package com.example.widget.album.app.album;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.res.ColorStateList;
 import android.graphics.drawable.Drawable;
@@ -53,6 +54,7 @@ class NullView extends Contract.NullView implements View.OnClickListener {
         this.mBtnTakeVideo.setOnClickListener(this);
     }
 
+    @SuppressLint("RestrictedApi")
     @Override
     public void setupViews(Widget widget) {
         mToolbar.setBackgroundColor(widget.getToolBarColor());

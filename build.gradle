@@ -14,10 +14,13 @@ buildscript {
         // in the individual module build.gradle files
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
         classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+        // 配置1
+        classpath 'com.novoda:bintray-release:+'
     }
 }
 
 allprojects {
+
     repositories {
         mavenCentral()
         google()
@@ -30,6 +33,7 @@ allprojects {
         
     }
 }
+
 
 task clean(type: Delete) {
     delete rootProject.buildDir

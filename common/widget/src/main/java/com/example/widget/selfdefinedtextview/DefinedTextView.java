@@ -1,4 +1,4 @@
-package com.example.widget.selfdefinedtextview;
+package com.example.widget.self;
 
 import android.content.Context;
 import android.support.annotation.DrawableRes;
@@ -6,7 +6,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-public class DefinedTextView extends TextView {
+public class DefinedTextView extends android.support.v7.widget.AppCompatTextView {
     public DefinedTextView(Context context) {
         super(context);
     }

@@ -15,6 +15,7 @@
  */
 package com.example.widget.album.app.album;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.ColorStateList;
 import android.support.v7.widget.AppCompatRadioButton;
@@ -99,6 +100,7 @@ class FolderAdapter extends RecyclerView.Adapter<FolderAdapter.FolderViewHolder>
         private TextView mTvTitle;
         private AppCompatRadioButton mCheckBox;
 
+        @SuppressLint("RestrictedApi")
         private FolderViewHolder(View itemView, ColorStateList selector, OnItemClickListener itemClickListener) {
             super(itemView);
 

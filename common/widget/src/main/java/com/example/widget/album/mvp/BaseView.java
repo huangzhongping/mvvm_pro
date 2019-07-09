@@ -79,20 +79,20 @@ public abstract class BaseView<Presenter extends BasePresenter> {
             }
         });
 
-        getPresenter().getLifecycle().addObserver(new GenericLifecycleObserver() {
-            @Override
-            public void onStateChanged(LifecycleOwner source, Lifecycle.Event event) {
-                if (event == Lifecycle.Event.ON_RESUME) {
-                    resume();
-                } else if (event == Lifecycle.Event.ON_PAUSE) {
-                    pause();
-                } else if (event == Lifecycle.Event.ON_STOP) {
-                    stop();
-                } else if (event == Lifecycle.Event.ON_DESTROY) {
-                    destroy();
-                }
-            }
-        });
+//        getPresenter().getLifecycle().addObserver(new GenericLifecycleObserver() {
+//            @Override
+//            public void onStateChanged(LifecycleOwner source, Lifecycle.Event event) {
+//                if (event == Lifecycle.Event.ON_RESUME) {
+//                    resume();
+//                } else if (event == Lifecycle.Event.ON_PAUSE) {
+//                    pause();
+//                } else if (event == Lifecycle.Event.ON_STOP) {
+//                    stop();
+//                } else if (event == Lifecycle.Event.ON_DESTROY) {
+//                    destroy();
+//                }
+//            }
+//        });
     }
 
     public final Presenter getPresenter() {

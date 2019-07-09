@@ -15,6 +15,7 @@
  */
 package com.example.widget.album.app.gallery;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.res.ColorStateList;
 import android.graphics.Color;
@@ -79,6 +80,7 @@ public class GalleryView<Data> extends Contract.GalleryView<Data> implements Vie
         }
     }
 
+    @SuppressLint("RestrictedApi")
     @Override
     public void setupViews(Widget widget, boolean checkable) {
         SystemBar.invasionStatusBar(mActivity);

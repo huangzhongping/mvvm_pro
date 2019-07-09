@@ -17,7 +17,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
  * 主要功能:图片请求控件
  * 创建时间：2016/7/20 09:28
  */
-public class RequestImageView extends ImageView {
+public class RequestImageView extends android.support.v7.widget.AppCompatImageView {
 
     public RequestImageView(Context context) {
         super(context);
@@ -31,10 +31,8 @@ public class RequestImageView extends ImageView {
         super(context, attrs, defStyleAttr);
     }
 
-    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
-    public RequestImageView(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-        super(context, attrs, defStyleAttr, defStyleRes);
-    }
+
+
 
     /**
      * 设置错误图片

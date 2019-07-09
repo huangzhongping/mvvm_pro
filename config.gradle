@@ -59,7 +59,7 @@ ext {
             //对话框
             "dialogplus"            :"com.orhanobut:dialogplus:1.11@aar",
             //圆形头像
-            "circleimageview"       :"de.hdodenhof:circleimageview:2.1.0",
+            ""       :"de.hdodenhof:circleimageview:2.1.0",
             //brvah
             "BaseRecyclerViewAdapterHelper":"com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46",
             //权限
