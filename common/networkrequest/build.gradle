@@ -62,7 +62,7 @@ dependencies {
     api project(":common:widget")
 }
 publish{
-    userOrg= 'mvvm-pro' //用户名
+    userOrg= 'huangzhongping' //用户名
     repoName = "mvvm_network" // binary上的仓库名
     groupId = "com.bipo" //包名
     artifactId = "networkrequest" //
