@@ -14,11 +14,13 @@ buildscript {
         // in the individual module build.gradle files
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
         classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
-        // 配置1
-        classpath 'com.novoda:bintray-release:+'
+
     }
 }
-
+//最好加上全局编码设置
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
 allprojects {
 
     repositories {
